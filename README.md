@@ -43,4 +43,5 @@
 
 - **[DishRoller](https://github.com/jessie0707a/DishRoller-App-ios-dev)** — AI-powered iOS cooking assistant (Swift · Gemini API)
 - **[TAIKE Life](https://github.com/jessie0707a/WEB-TAIKE-Life2)** — Full-stack web platform for Taiwan water sports (Java · MySQL)
+- **[Olist Delivery Time Prediction](https://github.com/jessie0707a/ML_Project-Regression_Ecommerce)** — ML regression model predicting e-commerce delivery days (Python · XGBoost · scikit-learn)
 
